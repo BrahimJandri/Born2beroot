@@ -22,3 +22,10 @@ Virtual machines run on a physical machine and access computing resources from s
 <h1> What its purpos ?</h1>
 - A virtual machine (VM) is a digital version of a physical computer. 
 Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring.
+
+<h1> Wh did you choose Debian ?</h1>
+- Because it's easy for beginners and has a large community.
+
+<h1> What's the difference between Debian and Rockey ? </h1>
+- The difference between Debian and Rockey is that Debian is easy to use for beginners while Rockey is made for advanced programmers.
+Debian uses apt and Aptitude as packaging tools, while Rockey uses dnf and Selinux as security software, while Debian uses AppArmor.
