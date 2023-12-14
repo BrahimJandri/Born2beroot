@@ -18,3 +18,5 @@ Here are the theoretical questions you will be asked during the evaluation:
 <h1> What is virtual machine ? </h1>
 - A VM is a virtualized instance of a computer that can perform almost all of the same functions as a computer, including running applications and operating systems. 
 Virtual machines run on a physical machine and access computing resources from software called a hypervisor.
+
+<h1> What its purpos ?</h1>
