@@ -31,7 +31,8 @@ Virtual machine software can run programs and operating systems, store data, con
 Debian uses apt and Aptitude as packaging tools, while Rockey uses dnf and Selinux as security software, while Debian uses AppArmor.
 
 <h2>what's the difference between aptitude, apt and what's APPArmor ?</h2>
-- Apt is an advanced packaging tool that is used by the OS to install packages, and it is automatically integrated in the OS, and it have a user interface.  
-- Aptitude is the same as apt, but it's not integrated with the OS. We just install it with apt. And aptitude has a graphical user interface.
+- Apt is an advanced packaging tool that is used by the OS to install packages, and it is automatically integrated in the OS, and it have a user interface.  </br>
+- Aptitude is the same as apt, but it's not integrated with the OS. We just install it with apt. And aptitude has a graphical user interface. </br>
+- AppArmor is a Linux kernel security module that allows the system administrator to restrict programs' capabilities with per-program profiles. Profiles can allow capabilities like network access, raw socket access, and the permission to read, write, or execute files on matching paths.
 
 <h2></h2>
