@@ -35,4 +35,5 @@ Debian uses apt and Aptitude as packaging tools, while Rockey uses dnf and Selin
 - Aptitude is the same as apt, but it's not integrated with the OS. We just install it with apt. And aptitude has a graphical user interface. </br>
 - AppArmor is a Linux kernel security module that allows the system administrator to restrict programs' capabilities with per-program profiles. Profiles can allow capabilities like network access, raw socket access, and the permission to read, write, or execute files on matching paths.
 
-<h2></h2>
+<h2>What the advantages/disadvantages of a strong password policy ?</h2>
+- In theory, the main benefit of password complexity rules is that they enforce the use of unique passwords that are harder to crack.
