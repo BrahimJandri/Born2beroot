@@ -37,3 +37,8 @@ Debian uses apt and Aptitude as packaging tools, while Rockey uses dnf and Selin
 
 <h2>What the advantages/disadvantages of a strong password policy ?</h2>
 - In theory, the main benefit of password complexity rules is that they enforce the use of unique passwords that are harder to crack.
+
+<h2>What's a partition ? And more generally how does LVM (Logical Volume Management) work ?</h2>
+- A partition is a logical division of a hard disk that is treated as a separate unit by operating systems (OSes) and file systems. The OSes and file systems can manage information on each partition as if it were a distinct hard drive. </br>
+- How does LVM work : It works by chunking the physical volumes (PVs) into physical extents (PEs). The PEs are mapped onto logical extents (LEs) which are then pooled into volume groups (VGs). These groups are linked together into logical volumes (LVs) that act as virtual disk partitions and that can be managed as such by using LVM. </br>
+
