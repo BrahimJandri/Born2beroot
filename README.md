@@ -15,23 +15,23 @@
 10. What's SSH (Secure Shell) and what's the value of using it ? </br>
 11. What is cron ?
 
-<h1> What is virtual machine ? </h1>
+<h2> What is virtual machine ? </h2>
 - A VM is a virtualized instance of a computer that can perform almost all of the same functions as a computer, including running applications and operating systems. 
 Virtual machines run on a physical machine and access computing resources from software called a hypervisor.
 
-<h1> What its purpos ?</h1>
+<h2> What its purpos ?</h2>
 - A virtual machine (VM) is a digital version of a physical computer. 
 Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring.
 
-<h1> Wh did you choose Debian ?</h1>
+<h2> Wh did you choose Debian ?</h2>
 - Because it's easy for beginners and has a large community.
 
-<h1> What's the difference between Debian and Rockey ? </h1>
+<h2> What's the difference between Debian and Rockey ? </h2>
 - The difference between Debian and Rockey is that Debian is easy to use for beginners while Rockey is made for advanced programmers.
 Debian uses apt and Aptitude as packaging tools, while Rockey uses dnf and Selinux as security software, while Debian uses AppArmor.
 
-<h1>what's the difference between aptitude, apt and what's APPArmor ?</h1>
+<h2>what's the difference between aptitude, apt and what's APPArmor ?</h2>
 - Apt is an advanced packaging tool that is used by the OS to install packages, and it is automatically integrated in the OS, and it have a user interface.  
 - Aptitude is the same as apt, but it's not integrated with the OS. We just install it with apt. And aptitude has a graphical user interface.
 
-<h1></h1>
+<h2></h2>
