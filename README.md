@@ -15,4 +15,4 @@ Here are the theoretical questions you will be asked during the evaluation:
 10. What's SSH (Secure Shell) and what's the value of using it ?
 11. What is cron ?
 
-</b> bf <b/>
+<h1> What is virtual machine </h1>
