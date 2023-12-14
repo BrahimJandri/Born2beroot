@@ -2,7 +2,7 @@
 <h2>This project aims to introduce you to the wonderful world of virtualization. You will create your first machine in VirtualBox (or UTM if you can’t use VirtualBox) under specific instructions. Then, at the end of this project, you will be able to set up your own operating system while implementing strict rules.</h2>
 
 <h3>Theoretical questions</h3>
-Here are the theoretical questions you will be asked during the evaluation:
+<h4>Here are the theoretical questions you will be asked during the evaluation:</h4>
 1. How does a virtual machine work ? And what its purpose ?
 2. Wh did you choose Debian or Rockey ?
 3. What's the difference between Debian and Rockey ?
