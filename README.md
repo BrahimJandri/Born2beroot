@@ -15,4 +15,6 @@ Here are the theoretical questions you will be asked during the evaluation:
 10. What's SSH (Secure Shell) and what's the value of using it ?
 11. What is cron ?
 
-<h1> What is virtual machine </h1>
+<h1> What is virtual machine ? </h1>
+- A VM is a virtualized instance of a computer that can perform almost all of the same functions as a computer, including running applications and operating systems. 
+Virtual machines run on a physical machine and access computing resources from software called a hypervisor.
