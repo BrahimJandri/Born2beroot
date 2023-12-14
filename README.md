@@ -20,3 +20,5 @@ Here are the theoretical questions you will be asked during the evaluation:
 Virtual machines run on a physical machine and access computing resources from software called a hypervisor.
 
 <h1> What its purpos ?</h1>
+- A virtual machine (VM) is a digital version of a physical computer. 
+Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring.
