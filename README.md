@@ -44,7 +44,7 @@ Debian uses apt and Aptitude as packaging tools, while Rockey uses dnf and Selin
 
 <h2> What's sudo?</h2>
 - The Unix command su, stands for “substitute user,” “super user,” or “switch user,” and allows you to log in as root and do whatever you want with the system. </br>
-Sudo stands for either "substitute user do" or "super user do" and it allows you to temporarily elevate your current user account to have root privileges. </br>
+- Sudo stands for either "substitute user do" or "super user do" and it allows you to temporarily elevate your current user account to have root privileges. </br>
 
 <h2> What's a UFW and what's the value of using it?</h2>
 - UFW: Uncomplicated Firewall (UFW) is a program for managing a Netfilter firewall designed to be easy to use. It uses a command-line interface consisting of a small number of simple commands and uses iptables for configuration. UFW has been available by default in all Ubuntu installations since 8.04 LTS. </br>
