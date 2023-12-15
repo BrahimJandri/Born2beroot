@@ -43,16 +43,16 @@ Debian uses apt and Aptitude as packaging tools, while Rockey uses dnf and Selin
 - How does LVM work: It works by chunking the physical volumes (PVs) into physical extents (PEs). The PEs are mapped onto logical extents (LEs) which are then pooled into volume groups (VGs). These groups are linked together into logical volumes (LVs) that act as virtual disk partitions and that can be managed as such by using LVM. </br>
 
 <h2> What's sudo?</h2>
-- The Unix command su, stands for “substitute user,” “super user,” or “switch user,” and allows you to log in as root and do whatever you want with the system.
-Sudo stands for either "substitute user do" or "super user do" and it allows you to temporarily elevate your current user account to have root privileges.
+- The Unix command su, stands for “substitute user,” “super user,” or “switch user,” and allows you to log in as root and do whatever you want with the system. </br>
+Sudo stands for either "substitute user do" or "super user do" and it allows you to temporarily elevate your current user account to have root privileges. </br>
 
 <h2> What's a UFW and what's the value of using it?</h2>
-- UFW: Uncomplicated Firewall (UFW) is a program for managing a Netfilter firewall designed to be easy to use. It uses a command-line interface consisting of a small number of simple commands and uses iptables for configuration. UFW has been available by default in all Ubuntu installations since 8.04 LTS.
-- UFW lets administrators manage network services on Ubuntu systems by opening and closing ports. Instead of specifying the port, they can enter the service name. The command will automatically open the HTTP port, namely 80. Similarly, enabling HTTPS connections means opening port 443.
+- UFW: Uncomplicated Firewall (UFW) is a program for managing a Netfilter firewall designed to be easy to use. It uses a command-line interface consisting of a small number of simple commands and uses iptables for configuration. UFW has been available by default in all Ubuntu installations since 8.04 LTS. </br>
+- UFW lets administrators manage network services on Ubuntu systems by opening and closing ports. Instead of specifying the port, they can enter the service name. The command will automatically open the HTTP port, namely 80. Similarly, enabling HTTPS connections means opening port 443. </br>
 
 <h2> What's SSH (Secure Shell) and what's the value of using it?</h2>
-- SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol that gives users, particularly system administrators, a secure way to access a computer over an unsecured network.
-- In addition to providing strong encryption, SSH is widely used by network administrators to manage systems and applications remotely, enabling them to log in to another computer over a network, execute commands, and move files from one computer to another.
+- SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol that gives users, particularly system administrators, a secure way to access a computer over an unsecured network. </br>
+- In addition to providing strong encryption, SSH is widely used by network administrators to manage systems and applications remotely, enabling them to log in to another computer over a network, execute commands, and move files from one computer to another. </br>
 
 <h2>What is cron?</h2>
-- The cron command-line utility is a job scheduler on Unix-like operating systems. Users who set up and maintain software environments use cron to schedule jobs, also known as cron jobs, to run periodically at fixed times, dates, or intervals.
+- The cron command-line utility is a job scheduler on Unix-like operating systems. Users who set up and maintain software environments use cron to schedule jobs, also known as cron jobs, to run periodically at fixed times, dates, or intervals. </br>
