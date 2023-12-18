@@ -23,7 +23,7 @@ Virtual machines run on a physical machine and access computing resources from s
 - A virtual machine (VM) is a digital version of a physical computer. 
 Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring.
 
-<h2> Wh did you choose Debian ?</h2>
+<h2> Why did you choose Debian ?</h2>
 - Because it's easy for beginners and has a large community.
 
 <h2> What's the difference between Debian and Rockey? </h2>
